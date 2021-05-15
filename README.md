@@ -1,6 +1,7 @@
 # Ahoyhoy!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=willfindlay&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **willfindlay/willfindlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
