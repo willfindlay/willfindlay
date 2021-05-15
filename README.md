@@ -4,9 +4,9 @@
 
 ## About Me
 
-My name is William (you can call me Will if you like). I'm a 🛡 security researcher a
-📖 Master's student affiliated with the CCSL/CISL labs out of Carleton University in Ottawa,
-Canada.
+My name is William (you can call me Will if you like).
+
+I'm a 🛡 security researcher a 📖 Master's student affiliated with the CCSL/CISL labs out of Carleton University in Ottawa, Canada.
 
 Here is a tl;dr for you:
  
