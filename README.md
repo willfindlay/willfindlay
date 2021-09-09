@@ -9,8 +9,8 @@ My name is William (you can call me Will if you like).
 I'm a 🛡 security researcher a 📖 Master's student affiliated with the CCSL/CISL labs out of Carleton University in Ottawa, Canada.
 
 Here is a tl;dr for you:
-- 🇨🇦 I'm a proud Canadian 🦫
-- 🦀 I'm also a proud Rustacean 🦀
+- 🇨🇦 I'm a proud Canadian
+- 🦀 I'm also a proud Rustacean
 - 🔭 I’m currently working on eBPF applications for runtime security.
 - ✨ I’m looking to collaborate on anything related to Rust, Linux, eBPF, or OS security.
 - 📫 How to reach me:
