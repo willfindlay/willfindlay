@@ -15,7 +15,7 @@ Here is a tl;dr for you:
 - ✨ I’m looking to collaborate on anything related to Rust, Linux, eBPF, or OS security.
 - 📫 How to reach me:
   - william <àŧ> williamfindlay.com
-  - william <àŧ> ccsl.carleton.ca
+  - will <àŧ> ccsl.carleton.ca
   - My PGP public key is [here](https://www.cisl.carleton.ca/~will/keys/email.pub.txt) (expires 04/02/2030)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My house has about four times as many animals as it has humans.
