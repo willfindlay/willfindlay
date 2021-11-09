@@ -8,7 +8,7 @@ My name is William (you can call me Will if you like).
 
 I'm a 🛡 security researcher and 📖 PhD student affiliated with the CCSL/CISL labs out of Carleton University in Ottawa, Canada.
 
-As of January 10th, 2021, I will be starting a new software engineering internship role at Isovalent, working on Cilium and eBPF development full time.
+As of January 10th, 2021, I will be starting a software engineering internship at Isovalent, working on Cilium and eBPF development full time.
 
 Here is a tl;dr for you:
 - 🇨🇦 I'm a proud Canadian
