@@ -8,8 +8,6 @@ My name is William (you can call me Will if you like).
 
 I'm a 🛡 security researcher and 📖 former PhD student affiliated with the CCSL/CISL labs out of Carleton University in Ottawa, Canada.
 
-As of January 10th, 2021, I am a software engineer at Isovalent, working on Tetragon and eBPF development full time.
-
 Here is a tl;dr for you:
 - 🇨🇦 I'm a proud Canadian
 - 🦀 I'm also a proud Rustacean
