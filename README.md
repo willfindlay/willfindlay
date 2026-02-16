@@ -20,7 +20,7 @@ Here is a tl;dr for you:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My house has about four times as many animals as it has humans.
 
-I have a website where you can find more information: https://www.cisl.carleton.ca/~will/
+I have a website where you can find more information: https://www.williamfindlay.com
 
 ## My GitHub Awards
 
